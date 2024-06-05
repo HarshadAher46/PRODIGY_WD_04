@@ -22,22 +22,7 @@ Over the past year, I have worked on various projects that have challenged me to
 
 Personal Qualities:
 I am a quick learner, a problem solver, and a team player. I thrive in dynamic environments where I can take on new challenges and contribute to innovative projects. My goal is to build a successful career as a web developer and continuously explore the ever-evolving tech world.
-Projects Section
 
-Project 1: Basic Website:
-A simple, static website created using HTML, CSS, and a touch of JavaScript. This project demonstrates my ability to design and structure web pages effectively.
-
-Project 2: To-Do List App:
-A dynamic to-do list application that helps users manage their daily tasks. Built with JavaScript, this app showcases my ability to create interactive web applications with a focus on usability.
-
-Project 3: Weather Forecast App:
-A weather forecasting application that fetches real-time data from a weather API. This project highlights my skills in working with APIs and creating functional, data-driven web applications.
-Contact Section
-
-Contact Information:
-
-    Email: your-email@example.com
-    LinkedIn: linkedin.com/in/harshad-aher
 
 Call to Action:
 If you'd like to get in touch with me for opportunities, collaborations, or inquiries, please feel free to reach out through the provided contact information. I am always open to discussing new projects and exploring potential collaborations.
